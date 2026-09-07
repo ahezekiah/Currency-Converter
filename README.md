@@ -14,13 +14,6 @@ Users select a converter from the main menu, enter a value into one unit, and co
 ---
 
 ## Overview
-
-Although the repository is named **Currency Converter**, the application itself is a multi-purpose:
-
-```text
-Unit Converter
-```
-
 The main menu provides four options:
 
 ```text
