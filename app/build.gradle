@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.finalprojectl8'
+    namespace 'com.example.unitconverter'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.finalprojectl8"
+        applicationId "com.example.unitconverter"
         minSdk 21
         targetSdk 32
         versionCode 1

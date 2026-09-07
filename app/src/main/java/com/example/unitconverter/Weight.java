@@ -1,4 +1,4 @@
-package com.example.finalprojectl8;
+package com.example.unitconverter;
 
 public class Weight {
 
